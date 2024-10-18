@@ -1764,7 +1764,7 @@
     var manifst = {
       type: "video",
       version: "1.2.8",
-      name: "Lampac",
+      name: "Lampac(Custom)",
       description: "Плагин для просмотра онлайн сериалов и фильмов",
       component: "lampac",
       onContextMenu: function onContextMenu(object) {
