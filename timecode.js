@@ -29,7 +29,7 @@
   var Timecode = /*#__PURE__*/ (function () {
     function Timecode(field) {
       _classCallCheck(this, Timecode);
-      this.localhost = "http://192.168.3.243:9118/";
+      this.localhost = "https://bwa.to/";
       this.network = new Lampa.Reguest();
     }
     _createClass(Timecode, [
